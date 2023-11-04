@@ -1,5 +1,5 @@
 
-## 🌐Socials
+## 🌐 Hi there, I'm Duong Duy Hung
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ddh.duyhung/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/duongduyhwng/) 
 
 # 💻Tech Stack
@@ -13,8 +13,8 @@
  ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+### 😂Dev Meme
+<img src='/tamvagiahuy.png' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duyhungduong&icon=0&color=0)](https://visitcount.itsvg.in)
