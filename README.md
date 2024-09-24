@@ -10,9 +10,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duyhungduong&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duyhungduong&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✍️Dev Quote
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+ <div className="mx-auto">
+  ✍️Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ </div>
+
 
 😂 Dev
 <img src='/tamvagiahuy.png' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
