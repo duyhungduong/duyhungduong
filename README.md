@@ -31,7 +31,6 @@ Here are the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 ![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duyhungduong&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Duong's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=duyhungduong&theme=radical&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duyhungduong&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
